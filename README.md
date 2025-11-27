@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there,<br>I am Karan Patel. A second year student, pursuing Bachelor of Engineering in Computer Science and Engineering at Lok Jagruti University, Gujarat, India.<br>I am currently learning Data Science and Web Development.<br>I am a passionate problem solver, currently 3⭐️ codechef code (rating:1607)
+Hello there,<br>I am Karan Patel. A first year student, pursuing Masters of Technology in Communication Engineering at IIT Bombay, Maharashtra, India.<br>I am currently learning Data Science and Web Development.<br>I am a passionate problem solver, currently 3⭐️ codechef code (rating:1607)
 
 
 ## 🌐 Socials:
